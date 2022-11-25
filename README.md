@@ -1,2 +1,2 @@
-# C-Program-uygulamalar-
+# C/C++ Program uygulamalar
 Örnek uygulamalar
